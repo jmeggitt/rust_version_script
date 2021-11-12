@@ -1,0 +1,10 @@
+[package]
+name = "version_script_test"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+name = "testing"
+crate-type = ["cdylib"]
+
+[dependencies]

@@ -1,0 +1,6 @@
+testing1.0 {
+       global:
+                foo;
+       local:
+                *;
+};
